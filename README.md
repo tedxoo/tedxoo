@@ -1,16 +1,13 @@
-## Hi there 👋
+<img align="right" width="35%" src="https://github.com/user-attachments/assets/e6904926-87d6-402e-94bc-bc6c3c2683f7" alt="pixel art" />
 
-<!--
-**tedxoo/tedxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! <img src="https://github.com/user-attachments/assets/107b3521-3a2a-4521-b304-f1795ded4983" height="32" alt="waving" />
 
-Here are some ideas to get you started:
+I'm **Ted**, a computer engineer and creative programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like creating new interactive tools, intelligent systems, and custom hardware from scratch.
+
+When I am not `programming`, you can find me swimming, hiking, running, or drawing pixel art.
+
+*building something new.*
+
+![Profile views](https://komarev.com/ghpvc/?username=tedxoo&base=13186)
